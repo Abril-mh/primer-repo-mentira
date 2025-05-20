@@ -16,7 +16,7 @@ git branch -M main
 
 Paso 5:
 Conectar nuestro repositorio local con un origen remoto
-git remote add origin https://github.com/Abril-mh/primer-repo-mentira.git
+git remote add origin https://github.com/Matu-Dev-JS/primer-repo-mentira.git
 
 Paso 6: 
 Subir nuestros cambios al repositorio remoto
